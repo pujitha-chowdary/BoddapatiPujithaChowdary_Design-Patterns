@@ -1,0 +1,42 @@
+---Implementation of creational design patterns---
+
+Implementation of Singleton design pattern:
+com.mycompany.app.SingletonSynchronized@42e25b0b
+com.mycompany.app.SingletonSynchronized@42e25b0b
+
+Implementation of Builder design pattern:
+1500cc
+4
+4
+250cc
+2
+0
+
+---Implementation of structural design patterns---
+
+Implementation of Adapter design pattern:
+Get element from ChromeDriver
+Select element from ChromeDriver
+Find element from IEDriver
+Click element from IEDriver
+Find element from IEDriver
+Click element from IEDriver
+
+Implementation of Facade design pattern:
+Drawing a Circle..
+Drawing a Rectangle..
+Drawing a Square..
+
+---Implementation of Behavioural design patterns---
+
+Implementation of Template Method design pattern:
+Selecting Bread...
+Choosing ingredients...
+Baking at temperature...
+Adding Toppings...
+Adding Cheese...
+
+Implementation of Iterator design pattern:
+1>Iterator
+2>Design
+3>Pattern
